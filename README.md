@@ -51,4 +51,3 @@ body{
 ## Author
 
 - Website - [https://tonny-blair-daniel.github.io/blogPreviewCard/]
-- Frontend Mentor - [https://www.frontendmentor.io/profile/yourusername]
