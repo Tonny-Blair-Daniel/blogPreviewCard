@@ -15,7 +15,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/Tonny-Blair-Daniel/blogPreviewCard.git]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://tonny-blair-daniel.github.io/blogPreviewCard/]
 
 ## My process
 
@@ -50,5 +50,5 @@ body{
 
 ## Author
 
-- Website - []
+- Website - [https://tonny-blair-daniel.github.io/blogPreviewCard/]
 - Frontend Mentor - [https://www.frontendmentor.io/profile/yourusername]
